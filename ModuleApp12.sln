@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleApp12", "ModuleApp12\ModuleApp12.csproj", "{AA5BA8F3-94F3-4253-9D99-182C96CB6A90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModuleApp12", "ModuleApp12\ModuleApp12.csproj", "{AA5BA8F3-94F3-4253-9D99-182C96CB6A90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
